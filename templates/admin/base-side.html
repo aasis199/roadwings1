@@ -1,0 +1,10 @@
+{% extends "admin/base.html" %}
+{% load i18n static %}
+
+{% block title %}{{ title }} | {% trans "Custom Admin Title" %}{% endblock %}
+{% block extrastyle %}
+     <link rel="stylesheet" type="text/css" href="{% static 'roadwings/static/admin/css/text.css'%">
+     <script src=""></script>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}

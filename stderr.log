@@ -1,0 +1,1231 @@
+9823592792
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165803894563573', 'mobile': '9779823592792', 'text': 'Your OTP for RoadWings is 418776', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-17 06:23:01.223228) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-26 03:00:00) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-05-21 09:00:00) while time zone support is active.
+  warnings.warn(
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 08:05:25.927712) while time zone support is active.
+  warnings.warn(
+found
+0ec06b20-e848-4226-95f5-bb293d589dcd1100481611312554741.jpg
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 08:04:45.193624) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-10 09:00:00) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 08:00:11.225761) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165873596166222', 'mobile': '9779801078877', 'text': 'Your OTP for RoadWings is 981171', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+9851078876
+9851078876
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165873600933155', 'mobile': '9779851078876', 'text': 'Your OTP for RoadWings is 795776', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165873625899746', 'mobile': '9779801911448', 'text': 'Your OTP for RoadWings is 903447', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+9801078877
+9801078877
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165873607657918', 'mobile': '9779851078876', 'text': 'Your OTP for RoadWings is 981171', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 08:32:34.510838) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165873788957378', 'mobile': '9779803812805', 'text': 'Your OTP for RoadWings is 468268', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 09:00:09.872180) while time zone support is active.
+  warnings.warn(
+9841895919
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165873953986025', 'mobile': '9779849087848', 'text': 'Your OTP for RoadWings is 589275', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 09:22:02.421049) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165874083789775', 'mobile': '9779801911445', 'text': 'Your OTP for RoadWings is 589275', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 09:53:54.957317) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16587427882207', 'mobile': '9779807143043', 'text': 'Your OTP for RoadWings is 591262', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 11:32:02.396473) while time zone support is active.
+  warnings.warn(
+9841463137
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165874865941387', 'mobile': '9779841463137', 'text': 'Your OTP for RoadWings is 972300', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 15:08:55.859052) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165876166974192', 'mobile': '9779802901144', 'text': 'Your OTP for RoadWings is 519326', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-25 16:59:00.674145) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165876823319845', 'mobile': '9779851235689', 'text': 'Your OTP for RoadWings is 118746', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-26 08:45:16.375639) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165882506454448', 'mobile': '9779860099828', 'text': 'Your OTP for RoadWings is 361305', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-26 08:51:50.041590) while time zone support is active.
+  warnings.warn(
+9851078876
+9851078876
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-26 09:04:31.042858) while time zone support is active.
+  warnings.warn(
+9851052176
+9851052176
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165882609978939', 'mobile': '9779849133268', 'text': 'Your OTP for RoadWings is 361305', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-26 09:05:57.395895) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165882607791184', 'mobile': '9779849133268', 'text': 'Your OTP for RoadWings is 361305', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165882623965014', 'mobile': '9779851052176', 'text': 'Your OTP for RoadWings is 734515', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-26 13:31:33.462414) while time zone support is active.
+  warnings.warn(
+9849424693
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16588422341930', 'mobile': '9779849424693', 'text': 'Your OTP for RoadWings is 509784', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-26 16:59:47.311328) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165885471186705', 'mobile': '9779802900074', 'text': 'Your OTP for RoadWings is 759603', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-25 09:00:00) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165890080258401', 'mobile': '9779803159875', 'text': 'Your OTP for RoadWings is 581066', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-27 05:47:16.364401) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-27 14:24:27.476458) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165893180675566', 'mobile': '9779803788669', 'text': 'Your OTP for RoadWings is 155814', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165901716927117', 'mobile': '9779862848291', 'text': 'Your OTP for RoadWings is 628837', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-28 14:07:24.326256) while time zone support is active.
+  warnings.warn(
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-29 10:27:01.460717) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165909037038557', 'mobile': '9779803892445', 'text': 'Your OTP for RoadWings is 105045', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-29 13:00:16.552531) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-29 13:01:01.998768) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-28 11:00:00) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16590995589835', 'mobile': '9779851130594', 'text': 'Your OTP for RoadWings is 885818', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165909960598001', 'mobile': '9779851021712', 'text': 'Your OTP for RoadWings is 379945', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-29 15:15:09.169790) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165910763483405', 'mobile': '9779841889515', 'text': 'Your OTP for RoadWings is 850789', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16591076404404', 'mobile': '9779801006725', 'text': 'Your OTP for RoadWings is 818502', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+9801006725
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-29 15:14:37.957655) while time zone support is active.
+  warnings.warn(
+9801006725
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-29 16:06:55.352097) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165911077155120', 'mobile': '9779849213380', 'text': 'Your OTP for RoadWings is 716431', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-30 08:32:32.296922) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165916988584', 'mobile': '9779617725987', 'text': 'Your OTP for RoadWings is 601684', 'credit': 1, 'network': 'smarttel', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165916989256449', 'mobile': '9779801981504', 'text': 'Your OTP for RoadWings is 466401', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][3211424] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-31 09:58:17.062378) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16592614246253', 'mobile': '9779826948943', 'text': 'Your OTP for RoadWings is 105146', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-31 12:05:36.689868) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165926904687846', 'mobile': '9779851181150', 'text': 'Your OTP for RoadWings is 434621', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-07-31 12:05:07.424228) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-25 09:00:00) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16592690587948', 'mobile': '9779851111399', 'text': 'Your OTP for RoadWings is 434621', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-01 03:47:44.401356) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-16 08:00:00) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165932562154244', 'mobile': '9779818275106', 'text': 'Your OTP for RoadWings is 417111', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+9802900074
+9802900074
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-02 04:14:52.492938) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-17 10:00:00) while time zone support is active.
+  warnings.warn(
+9802900074
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165941360335275', 'mobile': '9779841895919', 'text': 'Your OTP for RoadWings is 529147', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-02 05:44:24.583837) while time zone support is active.
+  warnings.warn(
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165941902069348', 'mobile': '9779840067132', 'text': 'Your OTP for RoadWings is 428257', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-02 06:01:01.178645) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165942001752489', 'mobile': '9779843606656', 'text': 'Your OTP for RoadWings is 539901', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon.png
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1186569] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+Not Found: /favicon.ico
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1729535] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1793030] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+Not Found: /apple-touch-icon-precomposed.png
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][197757] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+9851162434
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165985392380504', 'mobile': '9779851162434', 'text': 'Your OTP for RoadWings is 941153', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-07 06:32:39.251714) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165985536175286', 'mobile': '9779841611063', 'text': 'Your OTP for RoadWings is 394290', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165985543260034', 'mobile': '9779841611063', 'text': 'Your OTP for RoadWings is 394290', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-07 07:15:22.078949) while time zone support is active.
+  warnings.warn(
+9823592792
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Internal Server Error: /api/v1/user/createvehicle/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1359, in to_python
+    parsed = parse_date(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 78, in parse_date
+    return datetime.date(**kw)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/roadwings/api/views.py", line 379, in userCreateVehicle
+    tea.save()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1620, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1547, in as_sql
+    value_rows = [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1548, in <listcomp>
+    [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1549, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1487, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1408, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1363, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31\u201d value has the correct format (YYYY-MM-DD) but it is an invalid date.']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 382, in userCreateVehicle
+    print(e)
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201c' in position 2: ordinal not in range(128)
+Internal Server Error: /api/v1/user/createvehicle/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1359, in to_python
+    parsed = parse_date(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 78, in parse_date
+    return datetime.date(**kw)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/roadwings/api/views.py", line 379, in userCreateVehicle
+    tea.save()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1620, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1547, in as_sql
+    value_rows = [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1548, in <listcomp>
+    [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1549, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1487, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1408, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1363, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31\u201d value has the correct format (YYYY-MM-DD) but it is an invalid date.']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 382, in userCreateVehicle
+    print(e)
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201c' in position 2: ordinal not in range(128)
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-08 03:58:03.872687) while time zone support is active.
+  warnings.warn(
+Internal Server Error: /api/v1/user/createvehicle/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1359, in to_python
+    parsed = parse_date(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 78, in parse_date
+    return datetime.date(**kw)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/roadwings/api/views.py", line 379, in userCreateVehicle
+    tea.save()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1620, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1547, in as_sql
+    value_rows = [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1548, in <listcomp>
+    [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1549, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1487, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1408, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1363, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31\u201d value has the correct format (YYYY-MM-DD) but it is an invalid date.']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 382, in userCreateVehicle
+    print(e)
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201c' in position 2: ordinal not in range(128)
+Internal Server Error: /api/v1/user/createvehicle/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1359, in to_python
+    parsed = parse_date(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 78, in parse_date
+    return datetime.date(**kw)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/roadwings/api/views.py", line 379, in userCreateVehicle
+    tea.save()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1620, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1547, in as_sql
+    value_rows = [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1548, in <listcomp>
+    [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1549, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1487, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1408, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1363, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31\u201d value has the correct format (YYYY-MM-DD) but it is an invalid date.']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 382, in userCreateVehicle
+    print(e)
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201c' in position 2: ordinal not in range(128)
+Internal Server Error: /api/v1/user/createvehicle/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1359, in to_python
+    parsed = parse_date(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 78, in parse_date
+    return datetime.date(**kw)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/roadwings/api/views.py", line 379, in userCreateVehicle
+    tea.save()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1620, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1547, in as_sql
+    value_rows = [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1548, in <listcomp>
+    [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1549, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1487, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1408, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1363, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31\u201d value has the correct format (YYYY-MM-DD) but it is an invalid date.']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 382, in userCreateVehicle
+    print(e)
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201c' in position 2: ordinal not in range(128)
+Internal Server Error: /api/v1/user/editvehicle/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 74, in parse_date
+    return datetime.date.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1359, in to_python
+    parsed = parse_date(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 78, in parse_date
+    return datetime.date(**kw)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 430, in userEditVehicle
+    tea.update(blueBookExpiryDate=bluebookExpiryDate)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 865, in update
+    rows = query.get_compiler(self.db).execute_sql(CURSOR)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1783, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1348, in execute_sql
+    sql, params = self.as_sql()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1749, in as_sql
+    val = field.get_db_prep_save(val, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1408, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1363, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31\u201d value has the correct format (YYYY-MM-DD) but it is an invalid date.']
+Not Found: /
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2022-08-08 00:00:00) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-08 04:02:35.345840) while time zone support is active.
+  warnings.warn(
+Not Found: /favicon.ico
+9860461208
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165993104746564', 'mobile': '9779860461208', 'text': 'Your OTP for RoadWings is 112736', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-08 05:14:33.558275) while time zone support is active.
+  warnings.warn(
+9801078877
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /login
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165994356047335', 'mobile': '9779813896278', 'text': 'Your OTP for RoadWings is 387330', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-08 07:26:50.051015) while time zone support is active.
+  warnings.warn(
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+[UID:1172][2981897] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+[UID:1172][2981897] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-08 10:16:12.779252) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_165995370391737', 'mobile': '9779818539516', 'text': 'Your OTP for RoadWings is 408498', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /favicon.ico
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166004319526471', 'mobile': '9779801084395', 'text': 'Your OTP for RoadWings is 966765', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-09 11:07:51.473610) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-27 11:00:00) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-09 11:15:00.801810) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166004359562660', 'mobile': '9779801084388', 'text': 'Your OTP for RoadWings is 966765', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-09 17:22:31.554148) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166006568966228', 'mobile': '9779849839397', 'text': 'Your OTP for RoadWings is 641797', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-27 09:00:00) while time zone support is active.
+  warnings.warn(
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-11 13:40:50.811756) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166022521114959', 'mobile': '9779840256492', 'text': 'Your OTP for RoadWings is 765522', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-12 05:24:49.722804) while time zone support is active.
+  warnings.warn(
+9851162434
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-12 06:15:39.470323) while time zone support is active.
+  warnings.warn(
+9842023254
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166028485917177', 'mobile': '9779842023254', 'text': 'Your OTP for RoadWings is 637509', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-04-27 09:00:00) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166029849242053', 'mobile': '9779860128655', 'text': 'Your OTP for RoadWings is 470120', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-12 10:02:23.262486) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-12 16:29:20.583696) while time zone support is active.
+  warnings.warn(
+9849133268
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-14 13:13:36.739218) while time zone support is active.
+  warnings.warn(
+9841895919
+Not Found: /favicon.ico
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166054084714074', 'mobile': '9779801078877', 'text': 'Test Message', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Internal Server Error: /api/v1/user/createservice/
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 114, in parse_datetime
+    return datetime.datetime.fromisoformat(value)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1485, in to_python
+    parsed = parse_datetime(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/utils/dateparse.py", line 129, in parse_datetime
+    return datetime.datetime(**kw, tzinfo=tzinfo)
+ValueError: day is out of range for month
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/roadwings/api/views.py", line 658, in userCreateService
+    tea.save()
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 806, in save
+    self.save_base(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 857, in save_base
+    updated = self._save_table(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1000, in _save_table
+    results = self._do_insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/base.py", line 1041, in _do_insert
+    return manager._insert(
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/query.py", line 1434, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1620, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1547, in as_sql
+    value_rows = [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1548, in <listcomp>
+    [
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1549, in <listcomp>
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1487, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 910, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1546, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1524, in get_prep_value
+    value = super().get_prep_value(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1403, in get_prep_value
+    return self.to_python(value)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py", line 1489, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ['\u201c2079-04-31 09:00\u201d value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time.']
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/roadwingspl/roadwings/api/views.py", line 661, in userCreateService
+    print(e)
+UnicodeEncodeError: 'ascii' codec can't encode character '\u201c' in position 2: ordinal not in range(128)
+Not Found: /favicon.ico
+[UID:1172][1351434] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+[UID:1172][1351434] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][1351434] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166063069665590', 'mobile': '9779841895919', 'text': 'Dear Customer, for live preview of your servicing please download gdmss in playstore or idmss on app store\r\nS.N: 6L06455PAZ2834A\r\nus: ramp4\r\npw: Roadwings@403', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-20 08:52:38.409426) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166098552296310', 'mobile': '9779823364966', 'text': 'Your OTP for RoadWings is 902067', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166098737872843', 'mobile': '9779851162434', 'text': 'Dear Customer, for live preview of your servicing please download gdmss in playstore or idmss on app store\r\nS.N: 6L06455PAZ2834A\r\nus: ramp4\r\npw: Roadwings@403', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-05-05 01:07:00) while time zone support is active.
+  warnings.warn(
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 7, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+[UID:1172][971815] Reached max children process limit: 6, extra: 2, current: 8, busy: 8, please increase LSAPI_CHILDREN.
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-21 05:48:24.014354) while time zone support is active.
+  warnings.warn(
+9801078877
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-21 15:51:22.865299) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166109703226482', 'mobile': '9779851170691', 'text': 'Your OTP for RoadWings is 100613', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /favicon.ico
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-23 08:01:09.531442) while time zone support is active.
+  warnings.warn(
+9841895919
+Not Found: /favicon.ico
+list index out of range
+list index out of range
+list index out of range
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-23 09:42:36.056428) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-05-09 11:30:00) while time zone support is active.
+  warnings.warn(
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166124766761933', 'mobile': '9779851162434', 'text': 'Your OTP for RoadWings is 806990', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166124769356094', 'mobile': '9779851162434', 'text': 'Your OTP for RoadWings is 215812', 'credit': 1, 'network': 'ntc', 'status': 'queued', 'shortcode': 'AT_Alert'}], 'invalid': []}}
+Not Found: /
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField sessionModel.tim received a naive datetime (2022-08-24 03:09:25.185490) while time zone support is active.
+  warnings.warn(
+/home/roadwingspl/virtualenv/roadwings/3.8/lib/python3.8/site-packages/django/db/models/fields/__init__.py:1534: RuntimeWarning: DateTimeField serviceLogModel.dateOfMaintanance received a naive datetime (2079-05-08 10:00:00) while time zone support is active.
+  warnings.warn(
+9803968012
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_16613105291837', 'mobile': '9779803968012', 'text': 'Your OTP for RoadWings is 895154', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166133269998371', 'mobile': '9779801911445', 'text': 'Dear Customer, \r\nYour Bike Servicing is completed. Your Due amount is Rs.2100/- Please pay the amount on our Esewa ID: 9820103050.\r\nThank You.', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166133275230519', 'mobile': '9779803968012', 'text': 'Dear Customer, \r\nYour Vehicle Servicing is completed. Your Due amount is Rs.2100/- Please pay the amount on our Esewa ID: 9820103050.\r\nThank You.', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+{'error': False, 'message': '1 messages has been queued for delivery.', 'data': {'valid': [{'id': '6865_166133337446265', 'mobile': '9779803968012', 'text': 'Dear Customer, \r\nYour Vehicle Servicing is completed. Your Due amount is Rs.2100/- Please pay the amount on our Esewa ID: 9820103950.\r\nThank You.', 'credit': 1, 'network': 'ncell', 'status': 'queued', 'shortcode': 'RoadWings'}], 'invalid': []}}
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+OSError: LSAPI: File error
+Not Found: /favicon.ico
