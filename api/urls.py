@@ -33,7 +33,7 @@ urlpatterns = [
     path("user/createservice/", views.userCreateService, name="usercreateService"),
     path("user/editservice/", views.userEditService, name="usereditService"),
     path("user/deleteservice/", views.userDeleteService, name="userdeleteService"),
-    path('servicelogmodel/add/', UserList.as_view()),
+    # path('users/', UserList.as_view()),
     #
 ]
 

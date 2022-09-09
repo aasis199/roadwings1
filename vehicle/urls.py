@@ -25,6 +25,7 @@ urlpatterns = [
     path('check/notification', check_notification_view, name="check_notifications"),
     path("admin/", admin.site.urls),
     path("api/v1/", include("api.urls")),
+    path('chaining/', include('smart_selects.urls')),
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 

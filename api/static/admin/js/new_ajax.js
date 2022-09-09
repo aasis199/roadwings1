@@ -17,11 +17,11 @@ jQuery(function($){
     $(document).ready(function(){
         $("#id_vehicle").change(function(){
             $.ajax({
-                url:"admin/api/servicelogmodel/add/",
+                url:"/users/",
                 type:"POST",
                 data:{vehicle: $(this).val(),},
                 success: function(result) {
-                    console.log(result);
+                    // console.log(result);
                     cols = document.getElementById("id_user");
                     cols.options.length = 0;
                     cols.options.add(new Option("user", "user"));
@@ -29,12 +29,12 @@ jQuery(function($){
                         cols.options.add(new Option(k, result[k]));
                     }
                 },
-                headers: {
-                    "X-CSRFToken": getCookie("csrftoken")
-                },
-                error: function(e){
-                    console.log(JSON.stringify(e));
-                },
+                // headers: {
+                //     "X-CSRFToken": getCookie("csrftoken")
+                // },
+                // error: function(e){
+                //     console.error(JSON.stringify(e));
+                // },
             });
         });
     }); 

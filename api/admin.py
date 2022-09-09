@@ -60,7 +60,7 @@ class userAdmin(admin.ModelAdmin):
     image_tag.short_description = 'Image'
 
     
-    list_display = [  'image_tag', "firstName", 'lastName', 'email', 'phone',  'dateOfRegistration']
+    list_display = [ 'id', 'image_tag', "firstName", 'lastName', 'email', 'phone',  'dateOfRegistration']
 
     list_filter = ('gender', 'phoneStatus', 'dateOfRegistration')
 
@@ -88,8 +88,8 @@ class notificationAdmin(admin.ModelAdmin):
 
 
 class vehicleAdmin(admin.ModelAdmin):
-    list_display = [ "blueBookOwnerName", 'user' ,"licensePlateNumber", "brand", 'model', "color"]
-    list_filter = ("brand", 'model', 'user')
+    list_display = [ "id", "blueBookOwnerName" ,"licensePlateNumber", "brand", 'model', "color"]
+    list_filter = ("brand", 'model')
 
     search_fields = ("brand__contains", "blueBookOwnerName")
 
@@ -131,13 +131,13 @@ class serviceLogAdmin(admin.ModelAdmin):
             )
     status.allow_tags = True
 
-    list_display = ["user", 'username_tag', "dateOfMaintanance", "vehicle",
+    list_display = ['id', 'user', 'username_tag', "dateOfMaintanance", "vehicle",
                     "deleteStatus", "status"]
 
     actions = [completed, servicing]
     
-    class Media: 
-        js = ("admin/js/new_ajax.js",)
+    # class Media: 
+    #     js = ("admin/js/new_ajax.js",)
 
     list_filter = ("deleteStatus", 'statusType', 'dateOfMaintanance')
 
@@ -172,6 +172,8 @@ class sessionAdmin(admin.ModelAdmin):
 
 class otpAdmin(admin.ModelAdmin):
     list_display = ["otp"]
+
+
 
 admin.site.register(vehicleTypeModel, vehicleTypeAdmin)
 admin.site.register(settingsModel, settingsAdmin)

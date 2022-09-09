@@ -28,15 +28,16 @@ from .serializers import addressSerializer, serviceLogSerializer, userSerializer
 ##########################################################################################################
 ##########################################################################################################
 
-class UserList(APIView):
-    permission_classes = IsAuthenticated,
-    def post(self, request, format=None):
-        vehicle = request.data['vehicle']
-        user = {}
-        if vehicle:
-            users = vehicleModel.objects.get(model = vehicle).users.all
-            user = {p.name:p.id  for p in users}
-        return JsonResponse(data=user, safe=False)
+# def get_user(request):
+#     vehicle = request.POST.get('project')
+#     user = {}
+#     try:
+#         if vehicle:
+#             pro = vehicleModel.objects.get(pk=int(vehicle)).user
+#             users = {pp.user.phone:pp.pk for pp in pro}
+#     except:
+#         pass
+#     return JsonResponse(data=users, safe=False)
 
 
 @csrf_exempt

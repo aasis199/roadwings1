@@ -21,9 +21,8 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    # 'admin_interface',
-    # 'colorfield',
     'jet',
+    'smart_selects',
     "admin_notification",
     'widget_tweaks',
     'django.contrib.admin',
@@ -49,6 +48,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'vehicle.urls'
+JQUERY_URL = False
 
 TEMPLATES = [
     {
